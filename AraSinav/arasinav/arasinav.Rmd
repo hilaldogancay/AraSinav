@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "MERKEZİ YÖNETİM BÜTÇE DENGESİ  VE FİNANSMANI"
 author: 
-  - İsim Soyisim[^1]
+  - Hilal DOĞANÇAY[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080436, [Github Repo](https://github.com/hilaldogancay/AraSinav)
 
 # Vize Hakkında Önemli Bilgiler
 
@@ -51,10 +51,12 @@ Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturul
 Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Son 10 yılın Merkezi Yönetim Bütçe Dengesi ve Finansmanı İstatistiklerini analiz ederek, bütçe dengesi ile gelir ve gider kalemleri arasındaki ilişkileri inceleyen bir araştırma yapmayı amaçlıyorum.Kullanacağım veri setini T.C Hazine Ve Maliye Bakanlığı ([T.C Hazine ve Maliye Bakanlığı](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri))
+Bütçe Finansmanı İstatistikleri başlığı altında buldum. Veri setimin adı Merkezi Yönetim Bütçe Dengesi ve Finansmanı. Bulduğum veri setinde bulunan gözlem sayısı 64, değişken sayısı 13. Gözlemler bütçe gelirleri, bütçe harcamaları bütçe faiz dışı dengesi, bütçe dengesi, bütçe nakit dengesi, bütçe finansmanı gibi ana başlıklardan oluşuyor. Değişkenler de aylardan ve bunların toplamından oluşuyor.
+
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Bu araştırma, 2000-2013 dönemi içinde MENA seçili ülkelerde büyüme, verimlilik ve hükümet bütçe açığının etkisini inceleyerek, ekonomik büyüme, enflasyon, işgücü verimliliği ve bütçe açığı arasındaki ilişkileri ortaya koymuştur. Bu araştırmaya göre hükümet bütçe açığının ekonomik büyüme ile negatif korelasyonu da sürdürülmektedir.[@arjomand2016growth] Araştırma vergilendirme yapısının ve kamu harcamalarının sürekli durum büyüme hızını etkileyebileceği konusundaki endojen büyüme modellerinin tahminlerini desteklemekte ve Barro modeline güçlü bir destek sunmaktadır.Özellikle bozucu vergilendirme büyümeyi azaltırken, bozucu olmayan vergilendirme etkilemez; ve üretken kamu harcamaları büyümeyi artırırken, üretken olmayan harcamalar etkilemez.[@kneller1999fiscal] Makaleye göre Türkiye'de bütçe açıkları ve reel döviz kuru arasındaki etkileri 2006 verileri kullanılarak analiz edilmiştir ama bütçe açığı ve reel döviz kuru arasında nedensellik ilişkisi bulunmamıştır.[@huseyin23turkiye] Bu çalışmada devletin 2006-2020 dönemindeki vergi harcamaları ele alınarak yapılmış ve vergi kayıpları incelenmiş. Devlet vergiler ve vergi harcamalarıyla teşvik edici etkiler yaratır ama bu çalışmanın sonucunda özellikle 2017 yılı ve sonrasınartış oranı çok yüksektir. Dolayısıyla vergi harcamalarındaki artışın bütçe gelirlerinde yarattığı kayıp miktarı da yükseliştedir.[@uygunprof]
 
 
 **_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
@@ -62,4 +64,9 @@ Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tart
 \newpage
 # Kaynakça {#references}
 <div id="refs"></div>
+(https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)
+(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Esra-Uygun/publication/350994922_Turkiye'de_Vergi_Harcamalarinin_Gelisimi_ve_Gelir_Kaybi_Acisindan_Degerlendirilmesi_2006_-2020_Yillari/links/607e93b12fb9097c0cf761e1/Tuerkiyede-Vergi-Harcamalarinin-Gelisimi-ve-Gelir-Kaybi-Acisindan-Degerlendirilmesi-2006-2020-Yillari.pdf)
+(https://www.sciencedirect.com/science/article/pii/S2212567116300466)
+(https://www.sciencedirect.com/science/article/abs/pii/S0047272799000225)
+(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dergipark.org.tr/en/download/article-file/777910)
 
